@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Nice Photo I know
 My name is Mohamed , I've always loved computers and that's what eventually lead me to programming , I enjoy solving problems and writing algorithms. I am also very interested in web development especially the amazing and ever expanding world of JavaScript
 - 👯 I’m looking for an internship
 - 💬 Ask me about anything
