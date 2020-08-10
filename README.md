@@ -1,7 +1,10 @@
 ### Hi there 👋 Nice Photo I know
 My name is Mohamed , I've always loved computers and that's what eventually lead me to programming , I enjoy solving problems and writing algorithms. I am also very interested in web development especially the amazing and ever expanding world of JavaScript
-- 👯 I’m looking for an internship
+- 👯 I’m looking for a challenge
 - 💬 Ask me about anything
+- 📫 How to reach me: 
+[Linkedin](https://www.linkedin.com/in/mohamed-nouri-80396515b/)
+[Twitter](https://twitter.com/MoNouri97)
 <!--
 **MoNouri97/MoNouri97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
