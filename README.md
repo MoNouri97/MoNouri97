@@ -1,9 +1,8 @@
-### Hi there 👋 Nice Photo I know
+### Hi there 👋
 My name is Mohamed , I've always loved computers and that's what eventually lead me to programming , I enjoy solving problems and writing algorithms. I am also very interested in web development especially the amazing and ever expanding world of JavaScript
 - 👯 I’m looking for a challenge
 - 💬 Ask me about anything
 - 🌱 I’m currently learning GraphQL
-- 🌱 I’m also learning Game development using Godot and Unity 
 - 📫 How to reach me: 
 [Linkedin](https://www.linkedin.com/in/mohamed-nouri-80396515b/)
 [Twitter](https://twitter.com/MoNouri97)
