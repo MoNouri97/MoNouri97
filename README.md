@@ -2,7 +2,7 @@
 My name is Mohamed , I've always loved computers and that's what eventually lead me to programming , I enjoy solving problems and writing algorithms. I am also very interested in web development especially the amazing and ever expanding world of JavaScript
 - 👯 I’m looking for a challenge
 - 💬 Ask me about anything
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning SpringBoot
 - 📫 How to reach me: 
 [Linkedin](https://www.linkedin.com/in/mohamed-nouri-80396515b/)
 [Twitter](https://twitter.com/MoNouri97)
