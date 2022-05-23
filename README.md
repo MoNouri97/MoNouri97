@@ -7,7 +7,7 @@ My name is Mohamed , I've always loved computers and that's what eventually lead
 [Linkedin](https://www.linkedin.com/in/mohamed-nouri-80396515b/)
 [Twitter](https://twitter.com/MoNouri97)
 [Portfolio](https://monouri97.github.io/)
-⚡ Fun fact: 
+- ⚡ Fun fact: luck is a skill too
 <!--
 **MoNouri97/MoNouri97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
