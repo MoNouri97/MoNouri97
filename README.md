@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Mohamed , I've always loved computers and that's what eventually lead me to programming , I enjoy solving problems and writing algorithms. I am also very interested in web development especially the amazing and ever expanding world of JavaScript
-- 🔭 I’m currently working on a Fintech company [Dejamobile](https://dejamobile.com/)
+- 🔭 I’m currently working on a TapToPay(e-wallet) solution in a Fintech company [Dejamobile](https://dejamobile.com/)
 - 💬 Ask me about React,ReactNative,Node or Javscript (or Ts) in general
 - 🌱 I’m currently learning Golang & Kubernetes
 - 📫 How to reach me: 
