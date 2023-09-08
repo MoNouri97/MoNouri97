@@ -1,24 +1,11 @@
 ### Hi there 👋
 My name is Mohamed , I've always loved computers and that's what eventually lead me to programming , I enjoy solving problems and writing algorithms. I am also very interested in web development especially the amazing and ever expanding world of JavaScript
-- 🔭 I’m currently working on a TapToPay(e-wallet) solution in a Fintech company [Dejamobile](https://dejamobile.com/)
-- 💬 Ask me about React,ReactNative,Node or Javscript (or Ts) in general
+- 🔭 I’m currently working on a cross-platform application that focuses on supporting companies in documenting their workflow :[MemoMeister](https://memomeister.com/)
+- 💬 Ask me about React, ReactNative, Node or Javscript in general
 - 🌱 I’m currently learning Golang & Kubernetes
 - 📫 How to reach me: 
 [Linkedin](https://www.linkedin.com/in/mohamed-nouri-80396515b/)
 [Twitter](https://twitter.com/MoNouri97)
 [Portfolio](https://monouri97.github.io/)
 - ⚡ Fun fact: luck is a skill too
-<!--
-**MoNouri97/MoNouri97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
